@@ -47,11 +47,7 @@ ___
 
 ## 📝 Masterclass Schedule
 
-<p align='center'>
-   <img src="./imgs/sched.png" alt="download" width='800px'>
-</p>
-<br>
-
+TBD
 
 ## ▶️ Usage
 
