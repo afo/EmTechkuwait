@@ -1,8 +1,3 @@
-<a href="https://data-x.blog/">
-   <img src="./imgs/dx_logo.png" alt="Data-X Instructors" alt="data-x logo" title="Data-x" align="bottom-right" height="100" />
-</a>
-
-
 Emerging Technologies Kuwait Nov 2018
 ======================
 
