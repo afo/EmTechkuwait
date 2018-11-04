@@ -65,7 +65,7 @@ git pull
 
 <h1 align="center">
   <br>
-   <img src="./imgs/people.jpeg" alt="Data-X Instructors" width='300px'>
+   <img src="./imgs/people.jpeg" alt="Data-X Instructors" width='200px'>
   <br>
 </h1>
 <h1 align="center">
