@@ -1,4 +1,4 @@
-Emerging Technologies Kuwait Nov 2018
+Silicon Valley approach to Emerging Technologies
 ======================
 
 
