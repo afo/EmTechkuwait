@@ -81,7 +81,7 @@ git pull
 
 ## 📧 Contact us
 
-- **Paris de l'Etraz:** paris.deletraz @ ie edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
+- **Paris de l'Etraz:** paris.deletraz @ ie edu ([LinkedIn](https://www.linkedin.com/in/paris-de-l-etraz-phd-99917a6/))
 - **Ikhlaq Sidhu:** sidhu @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
 - **Alexander Fred Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
 
